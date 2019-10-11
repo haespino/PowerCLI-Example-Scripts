@@ -48,6 +48,7 @@
 
 # ----------------------------------------
 #   USER CONFIGURATION - EDIT AS NEEDED
+# TEST HE
 # ----------------------------------------
 $DefaultVIServer = "vcsa.lab.local"
 $vCUser = "root"
